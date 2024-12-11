@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LevelGoalsPopup
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 3acf957acfaf349c182f9bf1e407f138, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 26f2c8709ab64b14bbafacc7654c1812: 21300000
+    - b9332b7059e451444819a53e4f5bfdca: 21300000
+    - 616e7c51cb481d245bf35a280dd3530e: 21300000
+    - 715d3a02cd877c64b9cd96489a32d0fe: 21300000
+    - c15498b21ef4a30499d7c66801f76e67: 21300000
+    - 316c0b454e48f5147971b95b4c961016: 21300000
+    - 5c671d27a0fabcf4294662b21198054d: 21300000
+    - 668c99878b319d34595a6acbda59a52f: 21300000
+    - 6e3f24e827f87fb4fb86538f28e6eabc: 21300000
+    - aa7d59e82e839d8448e505035517a754: 21300000
+    - d768a40bab18c49f8890395d71552566: 21300000
+    - 69e1df0bda0025b4a8837eb0df3bfd50: 21300000
+    - 3e1c513c643889f43b00dd8679236e74: 21300000
+    - 8270f5be1551c43ad943ef00bb8d8e0c: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 26f2c8709ab64b14bbafacc7654c1812, type: 3}
+  - {fileID: 21300000, guid: b9332b7059e451444819a53e4f5bfdca, type: 3}
+  - {fileID: 21300000, guid: 616e7c51cb481d245bf35a280dd3530e, type: 3}
+  - {fileID: 21300000, guid: 715d3a02cd877c64b9cd96489a32d0fe, type: 3}
+  - {fileID: 21300000, guid: c15498b21ef4a30499d7c66801f76e67, type: 3}
+  - {fileID: 21300000, guid: 316c0b454e48f5147971b95b4c961016, type: 3}
+  - {fileID: 21300000, guid: 5c671d27a0fabcf4294662b21198054d, type: 3}
+  - {fileID: 21300000, guid: 668c99878b319d34595a6acbda59a52f, type: 3}
+  - {fileID: 21300000, guid: 6e3f24e827f87fb4fb86538f28e6eabc, type: 3}
+  - {fileID: 21300000, guid: aa7d59e82e839d8448e505035517a754, type: 3}
+  - {fileID: 21300000, guid: d768a40bab18c49f8890395d71552566, type: 3}
+  - {fileID: 21300000, guid: 69e1df0bda0025b4a8837eb0df3bfd50, type: 3}
+  - {fileID: 21300000, guid: 3e1c513c643889f43b00dd8679236e74, type: 3}
+  - {fileID: 21300000, guid: 8270f5be1551c43ad943ef00bb8d8e0c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - BlackBubble
+  - OrangeBubble
+  - Collectable
+  - WhiteBubble
+  - LeafUI
+  - GreenBubble
+  - BrownBubble
+  - YellowBubble
+  - RedBubble
+  - BlueBubble
+  - ItemBackground
+  - PinkBubble
+  - PurpleBubble
+  - PopupBackground
+  m_RenderDataMap: {}
+  m_Tag: LevelGoalsPopup
+  m_IsVariant: 0

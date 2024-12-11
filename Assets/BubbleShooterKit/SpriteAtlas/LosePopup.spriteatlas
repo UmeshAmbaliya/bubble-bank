@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LosePopup
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 205f1bc4ddd7c416abd08ccdeb54cfdf, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 1e015a10496564dfeaa897a4cf9eb999: 21300000
+    - 33c94b92d2a11425d84664bc129f4db6: 21300000
+    - 85240693345b840438c55c6e94255549: 21300000
+    - 2456dca39f95f4302ba5427609b06988: 21300000
+    - 6a4794843f0bd45509061941c51ed43c: 21300000
+    - 919ed984b812844a19ea404bdd22f3ed: 21300000
+    - 99921a947c1124ed589eabb2a81208f8: 21300000
+    - ed3577d495a2c4fe1aad710d5984a6a0: 21300000
+    - a8d38bd421dcf4308993fc6b2964c236: 21300000
+    - a8c29ee40fec642de858404915f1a738: 21300000
+    - 458e440577fa043c1a1378a1dcbe0f7e: 21300000
+    - 1e1e2135d64b9452f88e1494e7a8bb43: 21300000
+    - 23df19061d135481089f8cb20ff26588: 21300000
+    - ef9e6656a7a4449779b8c6f0c8bc1c98: 21300000
+    - dba4e607432ce49cbae36aedf6f962dd: 21300000
+    - 6bc08b07125004b439cd4ad1f3e5c492: 21300000
+    - 0502f767ce86a463295d364b56a16eb8: 21300000
+    - 7920c3385b6ea4cc4abd094afea6a5ad: 21300000
+    - 0618fc68405b44e42a48f2a9eb4f65df: 21300000
+    - d7a8bfd95ab5c44d08f25f398bcbecaf: 21300000
+    - c6cebd4a0195748098558b6addabf81f: 21300000
+    - 2b394c4d1a0ed467a8f26f07bb3c44c4: 21300000
+    - 91b2d84fae11745a998fe8a80054e635: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 1e015a10496564dfeaa897a4cf9eb999, type: 3}
+  - {fileID: 21300000, guid: 33c94b92d2a11425d84664bc129f4db6, type: 3}
+  - {fileID: 21300000, guid: 85240693345b840438c55c6e94255549, type: 3}
+  - {fileID: 21300000, guid: 2456dca39f95f4302ba5427609b06988, type: 3}
+  - {fileID: 21300000, guid: 6a4794843f0bd45509061941c51ed43c, type: 3}
+  - {fileID: 21300000, guid: 919ed984b812844a19ea404bdd22f3ed, type: 3}
+  - {fileID: 21300000, guid: 99921a947c1124ed589eabb2a81208f8, type: 3}
+  - {fileID: 21300000, guid: ed3577d495a2c4fe1aad710d5984a6a0, type: 3}
+  - {fileID: 21300000, guid: a8d38bd421dcf4308993fc6b2964c236, type: 3}
+  - {fileID: 21300000, guid: a8c29ee40fec642de858404915f1a738, type: 3}
+  - {fileID: 21300000, guid: 458e440577fa043c1a1378a1dcbe0f7e, type: 3}
+  - {fileID: 21300000, guid: 1e1e2135d64b9452f88e1494e7a8bb43, type: 3}
+  - {fileID: 21300000, guid: 23df19061d135481089f8cb20ff26588, type: 3}
+  - {fileID: 21300000, guid: ef9e6656a7a4449779b8c6f0c8bc1c98, type: 3}
+  - {fileID: 21300000, guid: dba4e607432ce49cbae36aedf6f962dd, type: 3}
+  - {fileID: 21300000, guid: 6bc08b07125004b439cd4ad1f3e5c492, type: 3}
+  - {fileID: 21300000, guid: 0502f767ce86a463295d364b56a16eb8, type: 3}
+  - {fileID: 21300000, guid: 7920c3385b6ea4cc4abd094afea6a5ad, type: 3}
+  - {fileID: 21300000, guid: 0618fc68405b44e42a48f2a9eb4f65df, type: 3}
+  - {fileID: 21300000, guid: d7a8bfd95ab5c44d08f25f398bcbecaf, type: 3}
+  - {fileID: 21300000, guid: c6cebd4a0195748098558b6addabf81f, type: 3}
+  - {fileID: 21300000, guid: 2b394c4d1a0ed467a8f26f07bb3c44c4, type: 3}
+  - {fileID: 21300000, guid: 91b2d84fae11745a998fe8a80054e635, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Bubbles
+  - Line
+  - Nose
+  - RainParticle
+  - Scarf
+  - Rain2
+  - Button
+  - Head
+  - CloseButton
+  - PopupBackground
+  - Arms
+  - Shine
+  - EarLeft
+  - Tail
+  - EyesOpen
+  - Tick
+  - Body
+  - Tear
+  - HeartBroken
+  - EyesClosed
+  - EarRight
+  - LeafParticle
+  - FailIcon
+  m_RenderDataMap: {}
+  m_Tag: LosePopup
+  m_IsVariant: 0

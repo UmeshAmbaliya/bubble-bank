@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d96786d336c3f544819f2ed8e3212d0, type: 3}
+  m_Name: GameConfiguration
+  m_EditorClassIdentifier: 
+  DefaultBubbleScore: 10
+  MaxLives: 5
+  TimeToNextLife: 300
+  LivesRefillCost: 100
+  InitialCoins: 1500
+  SuperAimBoosterAmount: 1
+  SuperAimBoosterPrice: 100
+  RainbowBubbleBoosterAmount: 3
+  RainbowBubbleBoosterPrice: 100
+  HorizontalBombBoosterAmount: 3
+  HorizontalBombBoosterPrice: 100
+  CircleBombBoosterAmount: 3
+  CircleBombBoosterPrice: 100
+  NumExtraBubbles: 5
+  ExtraBubblesCost: 100
+  RewardedAdCoins: 150
+  IapItems:
+  - StoreId: com.gamevanilla.bubbleshooter.coinspack5
+    NumCoins: 3600
+    Discount: 40
+    MostPopular: 0
+    BestValue: 1
+    CoinIcon: 5
+  - StoreId: com.gamevanilla.bubbleshooter.coinspack4
+    NumCoins: 1200
+    Discount: 20
+    MostPopular: 0
+    BestValue: 0
+    CoinIcon: 4
+  - StoreId: com.gamevanilla.bubbleshooter.coinspack3
+    NumCoins: 950
+    Discount: 15
+    MostPopular: 1
+    BestValue: 0
+    CoinIcon: 3
+  - StoreId: com.gamevanilla.bubbleshooter.coinspack2
+    NumCoins: 400
+    Discount: 5
+    MostPopular: 0
+    BestValue: 0
+    CoinIcon: 2
+  - StoreId: com.gamevanilla.bubbleshooter.coinspack1
+    NumCoins: 150
+    Discount: 0
+    MostPopular: 0
+    BestValue: 0
+    CoinIcon: 1

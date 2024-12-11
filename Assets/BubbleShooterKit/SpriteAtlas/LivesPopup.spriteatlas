@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LivesPopup
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 1b0b027805d9a4868932c8d2bd7b7a85, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - ba400e1488f9d4aa1b50c44ff517fda3: 21300000
+    - 7ffe30644763e4ee390b2e8a5ea77283: 21300000
+    - 26908b96397274c409869d27f2d4fb73: 21300000
+    - c3aceff77126643ad8cc03500ac2b027: 21300000
+    - 98c47a1962e194ae9b18880dca381da2: 21300000
+    - b9b80059912d649cabb6ee5da1fe409b: 21300000
+    - f0f89dbb65fc84817be5370841fa5646: 21300000
+    - 0a13c10c78fce4acdbf8f15f8b551088: 21300000
+    - 545348fc48a6247f48f95a0ac58eb128: 21300000
+    - 242e041f304bc4e2cbe0b72a2e33df39: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ba400e1488f9d4aa1b50c44ff517fda3, type: 3}
+  - {fileID: 21300000, guid: 7ffe30644763e4ee390b2e8a5ea77283, type: 3}
+  - {fileID: 21300000, guid: 26908b96397274c409869d27f2d4fb73, type: 3}
+  - {fileID: 21300000, guid: c3aceff77126643ad8cc03500ac2b027, type: 3}
+  - {fileID: 21300000, guid: 98c47a1962e194ae9b18880dca381da2, type: 3}
+  - {fileID: 21300000, guid: b9b80059912d649cabb6ee5da1fe409b, type: 3}
+  - {fileID: 21300000, guid: f0f89dbb65fc84817be5370841fa5646, type: 3}
+  - {fileID: 21300000, guid: 0a13c10c78fce4acdbf8f15f8b551088, type: 3}
+  - {fileID: 21300000, guid: 545348fc48a6247f48f95a0ac58eb128, type: 3}
+  - {fileID: 21300000, guid: 242e041f304bc4e2cbe0b72a2e33df39, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Coin
+  - Button
+  - CloseButton
+  - x5Text
+  - Background
+  - ButtonGrey
+  - Sticker
+  - PopupBackground
+  - LivesBag
+  - LifeIconSmall
+  m_RenderDataMap: {}
+  m_Tag: LivesPopup
+  m_IsVariant: 0

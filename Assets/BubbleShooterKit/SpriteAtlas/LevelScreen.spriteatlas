@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LevelScreen
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 6f18fd15065904fed943e7f0ad7d20a8, type: 3}
+    - {fileID: 102900000, guid: 23dd2726167ec49acb4e9322a9bf366e, type: 3}
+    - {fileID: 102900000, guid: 5560b01368e624902adf5163b254fcb5, type: 3}
+    - {fileID: 2800000, guid: 403bace3c6dcb4d25b5ee43affd2ce7c, type: 3}
+    - {fileID: 2800000, guid: e8194d00591b94b52855b5878d17d620, type: 3}
+    - {fileID: 2800000, guid: 6f9eaa5e1cc14417f8478086a1f21b2d, type: 3}
+    - {fileID: 2800000, guid: 94b37ccc21bb9428f898e41a4a2b65d6, type: 3}
+    - {fileID: 2800000, guid: ae751ccf9898c4c9abf39aa6c77d3a9d, type: 3}
+    - {fileID: 2800000, guid: 65306bb72716743bdb8ad532277af316, type: 3}
+    - {fileID: 2800000, guid: 7c3ebaf59c5c94d35b5177028a36c574, type: 3}
+    - {fileID: 2800000, guid: f00d22738395e4a4ba2042e9d0fd5408, type: 3}
+    - {fileID: 2800000, guid: 5259408b9a6134ba99200fe2d9a474b0, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - e8194d00591b94b52855b5878d17d620: 21300000
+    - 4fe8b3f214ec748f081aeae78726feba: 21300000
+    - f00d22738395e4a4ba2042e9d0fd5408: 21300000
+    - d6e05e93488fa4d69844774c8e5fdd4d: 21300000
+    - 3d4b5db3dfa9c49ed846a7b6120a745d: 21300000
+    - 403bace3c6dcb4d25b5ee43affd2ce7c: 21300000
+    - b95cfec42427242b9957fcf487e6626a: 21300000
+    - 693982b57c2964b9a8163f76210dcca4: 21300000
+    - 7c3ebaf59c5c94d35b5177028a36c574: 21300000
+    - 65306bb72716743bdb8ad532277af316: 21300000
+    - c61f8518083dc47b287d8dc4558f0c27: 21300000
+    - 6ee5a718158114257a8534af01df5a51: 21300000
+    - 2cb03628e93ba4b8d823821a8634212b: 21300000
+    - ffa3a6da5f00046578abf1e290c26193: 21300000
+    - 5259408b9a6134ba99200fe2d9a474b0: 21300000
+    - 6539e49b8fb3a400ab5ff713f7d5a4ec: 21300000
+    - 94b37ccc21bb9428f898e41a4a2b65d6: 21300000
+    - 6f9eaa5e1cc14417f8478086a1f21b2d: 21300000
+    - beda006e050ca48a68a724fe6107755a: 21300000
+    - 30ba926e5392e4060bcbdf6a46f210c9: 21300000
+    - b3b0137e0f44447a4b753ca2b32869f2: 21300000
+    - 75d47c8f1f10a4878a2c7f3d48c6fe98: 21300000
+    - 4c073a9f6b5e944d2b570adcc1a055d1: 21300000
+    - ae751ccf9898c4c9abf39aa6c77d3a9d: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e8194d00591b94b52855b5878d17d620, type: 3}
+  - {fileID: 21300000, guid: 4fe8b3f214ec748f081aeae78726feba, type: 3}
+  - {fileID: 21300000, guid: f00d22738395e4a4ba2042e9d0fd5408, type: 3}
+  - {fileID: 21300000, guid: d6e05e93488fa4d69844774c8e5fdd4d, type: 3}
+  - {fileID: 21300000, guid: 3d4b5db3dfa9c49ed846a7b6120a745d, type: 3}
+  - {fileID: 21300000, guid: 403bace3c6dcb4d25b5ee43affd2ce7c, type: 3}
+  - {fileID: 21300000, guid: b95cfec42427242b9957fcf487e6626a, type: 3}
+  - {fileID: 21300000, guid: 693982b57c2964b9a8163f76210dcca4, type: 3}
+  - {fileID: 21300000, guid: 7c3ebaf59c5c94d35b5177028a36c574, type: 3}
+  - {fileID: 21300000, guid: 65306bb72716743bdb8ad532277af316, type: 3}
+  - {fileID: 21300000, guid: c61f8518083dc47b287d8dc4558f0c27, type: 3}
+  - {fileID: 21300000, guid: 6ee5a718158114257a8534af01df5a51, type: 3}
+  - {fileID: 21300000, guid: 2cb03628e93ba4b8d823821a8634212b, type: 3}
+  - {fileID: 21300000, guid: ffa3a6da5f00046578abf1e290c26193, type: 3}
+  - {fileID: 21300000, guid: 5259408b9a6134ba99200fe2d9a474b0, type: 3}
+  - {fileID: 21300000, guid: 6539e49b8fb3a400ab5ff713f7d5a4ec, type: 3}
+  - {fileID: 21300000, guid: 94b37ccc21bb9428f898e41a4a2b65d6, type: 3}
+  - {fileID: 21300000, guid: 6f9eaa5e1cc14417f8478086a1f21b2d, type: 3}
+  - {fileID: 21300000, guid: beda006e050ca48a68a724fe6107755a, type: 3}
+  - {fileID: 21300000, guid: 30ba926e5392e4060bcbdf6a46f210c9, type: 3}
+  - {fileID: 21300000, guid: b3b0137e0f44447a4b753ca2b32869f2, type: 3}
+  - {fileID: 21300000, guid: 75d47c8f1f10a4878a2c7f3d48c6fe98, type: 3}
+  - {fileID: 21300000, guid: 4c073a9f6b5e944d2b570adcc1a055d1, type: 3}
+  - {fileID: 21300000, guid: ae751ccf9898c4c9abf39aa6c77d3a9d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - BackButton
+  - Border
+  - MoreButtonGrey
+  - Cloud6
+  - ButtonRed
+  - AdButton
+  - Shadow
+  - Cloud5
+  - MoreButton
+  - LifeIconGrey
+  - Cloud3
+  - Cloud4
+  - Avatar
+  - ButtonBlue
+  - TopCover
+  - ButtonLocked
+  - CoinsLivesBackground
+  - CoinIcon
+  - Cloud2
+  - Cloud1
+  - Mask
+  - StarYellow
+  - StarGrey
+  - LifeIcon
+  m_RenderDataMap: {}
+  m_Tag: LevelScreen
+  m_IsVariant: 0

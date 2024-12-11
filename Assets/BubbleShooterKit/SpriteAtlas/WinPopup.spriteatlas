@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WinPopup
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 38737b31ffdea4897a3b08bb817330d5, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 3c9358a0d8c364e508d7c0823e12254c: 21300000
+    - a9cbc0317a26e4133a57f6c3239b1477: 21300000
+    - b9ebc1910130a4bac9790253f3ff2057: 21300000
+    - 80847212bd2114dd4babc2fae927931c: 21300000
+    - e445b0d260b9742d2add709a3c56f19b: 21300000
+    - a74cfc35aa170463f97f35b03eff400d: 21300000
+    - 76cf1c860dfeb49d6bff263bdffc8735: 21300000
+    - 6899be96b2b974017a523a9d49739d32: 21300000
+    - a525ba079fdef4d7da8a1f34199decd9: 21300000
+    - 73354c27f405a4d7cb080a3d3767d5f8: 21300000
+    - 4cef0b38a2667ab4cb3f0c08a6399cab: 21300000
+    - a9b2d278630b045be8d45a51e67c2cb5: 21300000
+    - 82d6ac2977f7d430eaaa1133b79f3d2f: 21300000
+    - a912867a80bb94ae4867d60daba19178: 21300000
+    - 988e70aa2fa4145c39fb41e4cae5ad92: 21300000
+    - 4f0d08da50cfa4fc1b86b7f74fb66e9f: 21300000
+    - 2c76d32b9d2ce463b90f2bffeb034878: 21300000
+    - 9510f13b12316414db9276b0df81570d: 21300000
+    - cda22c3b10e6e42c4ae257b971a4ee1c: 21300000
+    - 1fd9708bc65884ab3aee6f7380fffd8f: 21300000
+    - 9ef0018bf53964f75bac7afe38fe98a5: 21300000
+    - c01a718b5d0fb4ab6ad499be484c6e6c: 21300000
+    - 7c1a5efb8dd94438fbbd0d60d275fc34: 21300000
+    - 02938a6e09456454cbe5413d1d8e4401: 21300000
+    - 2305009e1576f4a68a7bc12dfd1a0cee: 21300000
+    - a07748bf736d54328a9b180197a004e0: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 3c9358a0d8c364e508d7c0823e12254c, type: 3}
+  - {fileID: 21300000, guid: a9cbc0317a26e4133a57f6c3239b1477, type: 3}
+  - {fileID: 21300000, guid: b9ebc1910130a4bac9790253f3ff2057, type: 3}
+  - {fileID: 21300000, guid: 80847212bd2114dd4babc2fae927931c, type: 3}
+  - {fileID: 21300000, guid: e445b0d260b9742d2add709a3c56f19b, type: 3}
+  - {fileID: 21300000, guid: a74cfc35aa170463f97f35b03eff400d, type: 3}
+  - {fileID: 21300000, guid: 76cf1c860dfeb49d6bff263bdffc8735, type: 3}
+  - {fileID: 21300000, guid: 6899be96b2b974017a523a9d49739d32, type: 3}
+  - {fileID: 21300000, guid: a525ba079fdef4d7da8a1f34199decd9, type: 3}
+  - {fileID: 21300000, guid: 73354c27f405a4d7cb080a3d3767d5f8, type: 3}
+  - {fileID: 21300000, guid: 4cef0b38a2667ab4cb3f0c08a6399cab, type: 3}
+  - {fileID: 21300000, guid: a9b2d278630b045be8d45a51e67c2cb5, type: 3}
+  - {fileID: 21300000, guid: 82d6ac2977f7d430eaaa1133b79f3d2f, type: 3}
+  - {fileID: 21300000, guid: a912867a80bb94ae4867d60daba19178, type: 3}
+  - {fileID: 21300000, guid: 988e70aa2fa4145c39fb41e4cae5ad92, type: 3}
+  - {fileID: 21300000, guid: 4f0d08da50cfa4fc1b86b7f74fb66e9f, type: 3}
+  - {fileID: 21300000, guid: 2c76d32b9d2ce463b90f2bffeb034878, type: 3}
+  - {fileID: 21300000, guid: 9510f13b12316414db9276b0df81570d, type: 3}
+  - {fileID: 21300000, guid: cda22c3b10e6e42c4ae257b971a4ee1c, type: 3}
+  - {fileID: 21300000, guid: 1fd9708bc65884ab3aee6f7380fffd8f, type: 3}
+  - {fileID: 21300000, guid: 9ef0018bf53964f75bac7afe38fe98a5, type: 3}
+  - {fileID: 21300000, guid: c01a718b5d0fb4ab6ad499be484c6e6c, type: 3}
+  - {fileID: 21300000, guid: 7c1a5efb8dd94438fbbd0d60d275fc34, type: 3}
+  - {fileID: 21300000, guid: 02938a6e09456454cbe5413d1d8e4401, type: 3}
+  - {fileID: 21300000, guid: 2305009e1576f4a68a7bc12dfd1a0cee, type: 3}
+  - {fileID: 21300000, guid: a07748bf736d54328a9b180197a004e0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - StarGrey
+  - NoseMouth
+  - Head
+  - ScarfBack
+  - ArmRight
+  - LeafParticles
+  - Scarf
+  - PopupBackground
+  - ArmLeft
+  - Button
+  - FailIcon
+  - StarParticle
+  - Body
+  - FireworksParticles
+  - Tick
+  - LegLeft
+  - ButtonBlue
+  - LegRight
+  - Fox
+  - StarYellow
+  - Line
+  - Shine
+  - Crown
+  - RadialShine
+  - CloseButton
+  - Tail
+  m_RenderDataMap: {}
+  m_Tag: WinPopup
+  m_IsVariant: 0

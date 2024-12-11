@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935879662236",
+    "project_id": "app-bubble-bank",
+    "storage_bucket": "app-bubble-bank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935879662236:android:bb4370f464a94d1e3aab59",
+        "android_client_info": {
+          "package_name": "app.bubble.bank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtM1qSnMpwUz45bZ07UxG5eRzXoWWVMG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

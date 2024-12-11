@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CoinsPopup
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: edfb6ee1550d342c6bf2d6a234903df8, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 34b386c336d9c4c76ade353d6fd6c949: 21300000
+    - 8bf74b54a45b046d798ea34987d085bd: 21300000
+    - 39380ee4fa2f74125849437a1f6d7f91: 21300000
+    - 746ae105b16ca470b9ccaf51c1fc9b8d: 21300000
+    - ff5e781786163488f817f555225e43de: 21300000
+    - 964b6e9766fc0453e9e106610f481eb8: 21300000
+    - e4678c7911c69422cafb5f12df4ab38f: 21300000
+    - aed9f999a1fc24fcfb3ff5c1f637c3de: 21300000
+    - 970e0dc940b3b4f89aee45484461d345: 21300000
+    - 1d7b8c6b7042d424195c13e4d837f27c: 21300000
+    - 62ab5a7ced1af4807a8801afd4a787aa: 21300000
+    - c259f12e5eea54e11b541e80e9cbf912: 21300000
+    - b3931ddf87ee647afa8981d1aa734bdb: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 34b386c336d9c4c76ade353d6fd6c949, type: 3}
+  - {fileID: 21300000, guid: 8bf74b54a45b046d798ea34987d085bd, type: 3}
+  - {fileID: 21300000, guid: 39380ee4fa2f74125849437a1f6d7f91, type: 3}
+  - {fileID: 21300000, guid: 746ae105b16ca470b9ccaf51c1fc9b8d, type: 3}
+  - {fileID: 21300000, guid: ff5e781786163488f817f555225e43de, type: 3}
+  - {fileID: 21300000, guid: 964b6e9766fc0453e9e106610f481eb8, type: 3}
+  - {fileID: 21300000, guid: e4678c7911c69422cafb5f12df4ab38f, type: 3}
+  - {fileID: 21300000, guid: aed9f999a1fc24fcfb3ff5c1f637c3de, type: 3}
+  - {fileID: 21300000, guid: 970e0dc940b3b4f89aee45484461d345, type: 3}
+  - {fileID: 21300000, guid: 1d7b8c6b7042d424195c13e4d837f27c, type: 3}
+  - {fileID: 21300000, guid: 62ab5a7ced1af4807a8801afd4a787aa, type: 3}
+  - {fileID: 21300000, guid: c259f12e5eea54e11b541e80e9cbf912, type: 3}
+  - {fileID: 21300000, guid: b3931ddf87ee647afa8981d1aa734bdb, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - RedLine
+  - ListBackground
+  - Coins1
+  - CloseButton
+  - Button
+  - Coins3
+  - Coins4
+  - Sticker
+  - PopupBackground
+  - Coins2
+  - StickerBlue
+  - Coins5
+  - StickerRed
+  m_RenderDataMap: {}
+  m_Tag: CoinsPopup
+  m_IsVariant: 0

@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HomeScreen
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: ddfde301926d142b4b19b1c6767f3399, type: 3}
+    - {fileID: 102900000, guid: 0c6e843e19e47412aba68d27241089f2, type: 3}
+    - {fileID: 2800000, guid: 7602c695ef84d4144a4caa4a1112f650, type: 3}
+    - {fileID: 2800000, guid: 8a9756bf10da64e169e5344f57680b51, type: 3}
+    - {fileID: 2800000, guid: a53adedf0881641cd873e8f3125bac80, type: 3}
+    - {fileID: 2800000, guid: d21f83c0b705e4ecf871b0639079beb4, type: 3}
+    - {fileID: 2800000, guid: 7adcd3f4b402e4c6199fc40c95067642, type: 3}
+    - {fileID: 2800000, guid: 32722d9782fba4bbd8c60480df856472, type: 3}
+    - {fileID: 2800000, guid: 15a62f4669e6546fca99a19363d7b19e, type: 3}
+    - {fileID: 2800000, guid: edbe7d452097b47b482e3f52ec221e37, type: 3}
+    - {fileID: 2800000, guid: c46681e652ea8449888824c70e03f530, type: 3}
+    - {fileID: 2800000, guid: c40e85afbd58c4895ae5386977015062, type: 3}
+    - {fileID: 2800000, guid: 839193ee1ec1a491a852367d9b570143, type: 3}
+    - {fileID: 2800000, guid: 988186482ee174ddfba33199eea821f3, type: 3}
+    - {fileID: 2800000, guid: 13cc48d4057ef4556962debf233fcfd4, type: 3}
+    - {fileID: 2800000, guid: 791d023d8124c4b31ab666d5d9a57e04, type: 3}
+    - {fileID: 2800000, guid: 47ade56dd35684d4da8597e4dca17021, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - d209e340d77ef48cd88a2915afc46a87: 21300000
+    - d21f83c0b705e4ecf871b0639079beb4: 21300000
+    - 7e646ca174d9e401993f4689b8685cf3: 21300000
+    - 23fe2a02d1fd94e60a1d5e6bd4fe5a43: 21300000
+    - 779feed37b34f48aa8dab30428beab9e: 21300000
+    - fcc955f3324cd42ea864a8f754951a3d: 21300000
+    - cd70ec044bd304649b205d5a939b51d0: 21300000
+    - 3d7cc0a4c3143487aac0f483292d72e1: 21300000
+    - 13cc48d4057ef4556962debf233fcfd4: 21300000
+    - 7adcd3f4b402e4c6199fc40c95067642: 21300000
+    - edbe7d452097b47b482e3f52ec221e37: 21300000
+    - 7602c695ef84d4144a4caa4a1112f650: 21300000
+    - 15a62f4669e6546fca99a19363d7b19e: 21300000
+    - c46681e652ea8449888824c70e03f530: 21300000
+    - 46b15f571086e418cbde198007e546c5: 21300000
+    - 19e4ad8776b5a4ff7b2307c92a204b99: 21300000
+    - 32722d9782fba4bbd8c60480df856472: 21300000
+    - 988186482ee174ddfba33199eea821f3: 21300000
+    - cde1ed7839894463cae673a08afce7fd: 21300000
+    - 1740b61b9d3bd4ba5b26664c5e22b3be: 21300000
+    - dc08df5c40205499aa9695286e4447ae: 21300000
+    - 791d023d8124c4b31ab666d5d9a57e04: 21300000
+    - 47ade56dd35684d4da8597e4dca17021: 21300000
+    - 5af6743e79b7047ed9255467fe41bc4a: 21300000
+    - 839193ee1ec1a491a852367d9b570143: 21300000
+    - c40e85afbd58c4895ae5386977015062: 21300000
+    - 8a9756bf10da64e169e5344f57680b51: 21300000
+    - a53adedf0881641cd873e8f3125bac80: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d209e340d77ef48cd88a2915afc46a87, type: 3}
+  - {fileID: 21300000, guid: d21f83c0b705e4ecf871b0639079beb4, type: 3}
+  - {fileID: 21300000, guid: 7e646ca174d9e401993f4689b8685cf3, type: 3}
+  - {fileID: 21300000, guid: 23fe2a02d1fd94e60a1d5e6bd4fe5a43, type: 3}
+  - {fileID: 21300000, guid: 779feed37b34f48aa8dab30428beab9e, type: 3}
+  - {fileID: 21300000, guid: fcc955f3324cd42ea864a8f754951a3d, type: 3}
+  - {fileID: 21300000, guid: cd70ec044bd304649b205d5a939b51d0, type: 3}
+  - {fileID: 21300000, guid: 3d7cc0a4c3143487aac0f483292d72e1, type: 3}
+  - {fileID: 21300000, guid: 13cc48d4057ef4556962debf233fcfd4, type: 3}
+  - {fileID: 21300000, guid: 7adcd3f4b402e4c6199fc40c95067642, type: 3}
+  - {fileID: 21300000, guid: edbe7d452097b47b482e3f52ec221e37, type: 3}
+  - {fileID: 21300000, guid: 7602c695ef84d4144a4caa4a1112f650, type: 3}
+  - {fileID: 21300000, guid: 15a62f4669e6546fca99a19363d7b19e, type: 3}
+  - {fileID: 21300000, guid: c46681e652ea8449888824c70e03f530, type: 3}
+  - {fileID: 21300000, guid: 46b15f571086e418cbde198007e546c5, type: 3}
+  - {fileID: 21300000, guid: 19e4ad8776b5a4ff7b2307c92a204b99, type: 3}
+  - {fileID: 21300000, guid: 32722d9782fba4bbd8c60480df856472, type: 3}
+  - {fileID: 21300000, guid: 988186482ee174ddfba33199eea821f3, type: 3}
+  - {fileID: 21300000, guid: cde1ed7839894463cae673a08afce7fd, type: 3}
+  - {fileID: 21300000, guid: 1740b61b9d3bd4ba5b26664c5e22b3be, type: 3}
+  - {fileID: 21300000, guid: dc08df5c40205499aa9695286e4447ae, type: 3}
+  - {fileID: 21300000, guid: 791d023d8124c4b31ab666d5d9a57e04, type: 3}
+  - {fileID: 21300000, guid: 47ade56dd35684d4da8597e4dca17021, type: 3}
+  - {fileID: 21300000, guid: 5af6743e79b7047ed9255467fe41bc4a, type: 3}
+  - {fileID: 21300000, guid: 839193ee1ec1a491a852367d9b570143, type: 3}
+  - {fileID: 21300000, guid: c40e85afbd58c4895ae5386977015062, type: 3}
+  - {fileID: 21300000, guid: 8a9756bf10da64e169e5344f57680b51, type: 3}
+  - {fileID: 21300000, guid: a53adedf0881641cd873e8f3125bac80, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ScarfBack
+  - BubbleRed
+  - ArmLeft
+  - GamevanillaText
+  - EyesOpen
+  - Scarf
+  - Wood
+  - ArmRight
+  - Leaf3
+  - BubbleWhite
+  - Cloud1
+  - BubbleBlue
+  - ButtonSettings
+  - Cloud2
+  - Mouth
+  - Tail
+  - BubbleYellow
+  - Leaf2
+  - Head
+  - Body
+  - EyesClosed
+  - LeafParticle
+  - PlayButton
+  - Background
+  - Leaf1
+  - ColorStarsparticles
+  - BubbleGreen
+  - BubblePink
+  m_RenderDataMap: {}
+  m_Tag: HomeScreen
+  m_IsVariant: 0

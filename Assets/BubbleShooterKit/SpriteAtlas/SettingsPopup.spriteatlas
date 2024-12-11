@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SettingsPopup
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7e13ba49bcea7420fb09d51f21e61edf, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 9a2cbbd006fd44652868c3c5f01b986a: 21300000
+    - c9d3f3c495db6460f88b93131f4fdd8d: 21300000
+    - 0162c5c536f8142cc8c8de9ff9f6a84e: 21300000
+    - aace8019aa66041f7b01a49e27a5af2f: 21300000
+    - 72e9082a4d4dd451894d4b14d8504f6d: 21300000
+    - 76c26b0ba8b094b2d9e3ad9f175a8b62: 21300000
+    - 5500642c8a5b746d694d681e3a56cfad: 21300000
+    - 255273ad4e4734886ab1d0fcdaf3ec4b: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9a2cbbd006fd44652868c3c5f01b986a, type: 3}
+  - {fileID: 21300000, guid: c9d3f3c495db6460f88b93131f4fdd8d, type: 3}
+  - {fileID: 21300000, guid: 0162c5c536f8142cc8c8de9ff9f6a84e, type: 3}
+  - {fileID: 21300000, guid: aace8019aa66041f7b01a49e27a5af2f, type: 3}
+  - {fileID: 21300000, guid: 72e9082a4d4dd451894d4b14d8504f6d, type: 3}
+  - {fileID: 21300000, guid: 76c26b0ba8b094b2d9e3ad9f175a8b62, type: 3}
+  - {fileID: 21300000, guid: 5500642c8a5b746d694d681e3a56cfad, type: 3}
+  - {fileID: 21300000, guid: 255273ad4e4734886ab1d0fcdaf3ec4b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - CloseButton
+  - Line
+  - SliderButton
+  - ButtonGreen
+  - SliderOn
+  - ButtonGrey
+  - SliderOff
+  - PopupBackground
+  m_RenderDataMap: {}
+  m_Tag: SettingsPopup
+  m_IsVariant: 0

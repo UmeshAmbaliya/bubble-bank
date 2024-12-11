@@ -1,0 +1,19 @@
+Bubble Shooter Kit is governed by the Asset Store EULA; however, the following components are governed by the licenses indicated below:
+
+* Fonts (BubbleShooterKit/Fonts folder)
+
+    - SIL OPEN FONT LICENSE Version 1.1
+    
+    - License details available here: https://opensource.org/licenses/OFL-1.1
+
+* Sounds (CandyMatch3Kit/Sounds folder)
+
+    - Creative Commons Attribution 3.0 Unported License
+
+    - License details available here: https://creativecommons.org/licenses/by/3.0/legalcode
+    
+* DOTween asset (needs to be imported by the user):
+
+    - Asset Store EULA
+    
+    - License details available here: https://unity3d.com/es/legal/as_terms
